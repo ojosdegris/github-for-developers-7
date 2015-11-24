@@ -4,3 +4,4 @@
      - Russia
      - Shuba
      - Surfing
+     - Silver
