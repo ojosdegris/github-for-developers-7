@@ -5,3 +5,4 @@
      - Shuba
      - Surfing
      - Silver
+     - likes surfing and palms 
